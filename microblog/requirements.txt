@@ -5,6 +5,7 @@ flask-sqlalchemy
 flask-migrate
 flask-login
 flask-mail
+flask-moment
 pyjwt
 pytest==3.0.5
 pytest-cov==2.4.0
